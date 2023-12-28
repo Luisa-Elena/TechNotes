@@ -53,6 +53,6 @@ npm start
 ```
 
 ## Usage
-- In the .env file in the server folder, there should be the variables NODE_ENV=development (since the project is not for deployment), PORT, DATABASE_URI, ACCESS_TOKEN_SECRET and  REFRESH_TOKEN_SECRET. 
+- In the .env file in the server folder, there should be the variables NODE_ENV=development (since the project is not yet ready for deployment), PORT, DATABASE_URI, ACCESS_TOKEN_SECRET and  REFRESH_TOKEN_SECRET. 
 - After clicking on the Employee Login link, on the login form, there is a 'trust this device' checkbox which must be checked in order to make the login persist through refreshing the page.
 - The website provides easy navigation, with a header and a footer containing buttons which redirect you on the pages you have access to based on your role and permissions.
