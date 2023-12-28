@@ -12,6 +12,7 @@
 
 - This website is actually like an employee management system for a small tech repair shop business, used to keep track of the tasks for each employee.
 - This project also implements role based permissions. Each user can be either an Admin, Manager or Employee. An employee can only view and edit its assigned notes. Anyone can create a note (when a customer checks-in) which will be assigned to a specific employee. Notes can only be deleted by managers or admins. They can view, edit and delete all notes and only they can acces user setings and even add new users (create new accounts).
+- I made the project by following this tutorial: https://www.youtube.com/watch?v=CvCiNeLnZ00&t=350s&ab_channel=DaveGray
 
 
 ## Installation
